@@ -1,0 +1,140 @@
+.sub-footer {
+    padding: 40px 51px;
+    box-shadow: 1px -7px 27px -6px rgba(255, 140, 33, 0.3);
+}
+
+.full-gray-clr {
+    color: rgba(0, 0, 0, 0.58);
+}
+
+.semi-gray-clr {
+    color: rgba(0, 0, 0, 0.86);
+}
+
+.sub-footer-quick-links {
+    display: grid;
+    grid-template-columns: 25% 25% 50%;
+}
+
+
+
+.sub-footer-quick-links-left h2 {
+    font-size: 25px;
+    font-weight: 500;
+}
+
+.sub-footer-quick-links-left div {
+    margin-top: 40px;
+    display: flex;
+    align-items: center;
+}
+
+.sub-footer-quick-links-left img {
+    width: 27px;
+    height: 27px;
+}
+
+.sub-footer-quick-links-left span {
+    font-size: 22px;
+}
+
+.footer-icons,
+img {
+    margin-right: 20px;
+    font-size: 27px;
+}
+
+
+.sub-footer-quick-links-middle button {
+    background: #FF8C21;
+    border-radius: 40px;
+    width: 300px;
+    height: 75px;
+    border-radius: 40px;
+    font-size: 29px;
+    padding: 20px 23px;
+    color: white;
+    border: none;
+    margin-bottom: 22px;
+}
+
+.sub-footer-quick-links-middle p span {
+    font-size: 22px;
+}
+
+.left-border {
+    border-left: 2px solid rgba(0, 0, 0, 0.58);
+    margin-left: 8px;
+    padding-left: 8px;
+}
+
+.sub-footer-quick-links-right {
+    background-color: rgba(238, 238, 238, 1);
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.sub-footer-quick-links-right img {
+    height: 36px;
+    width: 36px;
+    margin-right: 15px;
+}
+
+.sub-footer-quick-links-right h2 {
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.sub-footer-quick-links-right-title {
+    display: flex;
+    align-items: center;
+}
+
+.sub-footer-quick-links-right-infos {
+    display: flex;
+}
+
+.sub-footer-quick-links-right-infos .quick-links p {
+    margin-top: 20px;
+    font-size: 18px;
+    font-weight: 400;
+    color: rgba(0, 0, 0, 0.74);
+    min-width: 180px;
+}
+
+.contact-info {
+    margin-top: 20px;
+}
+
+.contact-info p {
+    display: flex;
+    margin-bottom: 10px;
+}
+
+.contact-info span {
+    margin-left: 10px;
+    color: rgba(0, 0, 0, 0.74);
+    font-size: 18px;
+}
+
+.contact-info-icons {
+    width: 32px;
+    height: 32px;
+}
+
+.social-links {
+    height: 49px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0.86);
+}
+
+.social-links img {
+    height: 30px;
+    width: 30px;
+    /* border: 2px solid white; */
+    border-radius: 50%;
+    background-color: white;
+    padding: 1px;
+}

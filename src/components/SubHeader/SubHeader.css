@@ -1,0 +1,28 @@
+.faq-header {
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    padding: 14px 29px;
+}
+
+.logo-img {
+    height: 46px;
+    width: 46px;
+}
+
+.title {
+    font-weight: 700;
+    font-size: 28px;
+    margin-left: 12px;
+}
+
+.title span {
+    color: #FF8C21
+}
+
+.sub-page {
+    margin-left: 46px;
+    color: #272726B2;
+    font-weight: 600;
+    font-size: 25px;
+}

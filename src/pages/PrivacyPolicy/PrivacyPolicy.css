@@ -1,0 +1,16 @@
+.privacy-container {
+    margin: 40px 29px;
+}
+
+.privacy-container h2 {
+    font-size: 40px;
+    color: rgba(0, 0, 0, 0.58);
+    font-weight: 700;
+}
+
+.privacy-para p {
+    margin-top: 33px;
+    font-size: 20px;
+    font-weight: 500;
+    color: rgba(0, 0, 0, 0.58);
+}
